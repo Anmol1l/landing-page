@@ -75,3 +75,23 @@ h1 {
     background-color: #3882F6;
     color: white;
 }
+
+.title {
+    font-size: 36px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    flex-basis: 100%;
+}
+
+.tiles {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text {
+    display: flex;
+    width: 150px;
+    text-align: center;
+}
