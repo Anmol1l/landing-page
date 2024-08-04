@@ -120,3 +120,39 @@ h1 {
     font-weight: bolder;
     font-size: 24px;
 }
+
+.signup-field {
+    padding: 100px 350px
+}
+
+.signup-area {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: #F9FAF8;
+}
+
+.signup-text {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.signup-area button {
+    border-color: #F9FAF8;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 5px 30px;
+    font-weight: bolder;
+    font-size: medium;
+    height: 30px;
+}
+
+.bold {
+    font-size: larger;
+    font-weight: bold;
+}
